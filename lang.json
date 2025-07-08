@@ -1,0 +1,84 @@
+{
+  "tr": {
+    "main": {
+      "login": "Giriş",
+      "register": "Kayıt"
+    },
+    "login": {
+      "title": "Giriş Yap",
+      "email": "E-posta adresin",
+      "password": "Şifren",
+      "submit": "Giriş Yap",
+      "forgot": "Şifremi unuttum",
+      "signup": "Hesabın yok mu? Kayıt ol"
+    },
+    "register": {
+      "title": "Kayıt Ol",
+      "email": "E-posta adresin",
+      "password": "Şifre oluştur",
+      "submit": "Kayıt Ol",
+      "login": "Zaten hesabın var mı? Giriş yap"
+    },
+    "reset": {
+      "title": "Şifre Sıfırla",
+      "email": "Kayıtlı e-posta adresin",
+      "submit": "Bağlantı Gönder",
+      "back": "Giriş sayfasına dön"
+    }
+  },
+  "en": {
+    "main": {
+      "login": "Login",
+      "register": "Sign Up"
+    },
+    "login": {
+      "title": "Login",
+      "email": "Your email",
+      "password": "Your password",
+      "submit": "Login",
+      "forgot": "Forgot your password?",
+      "signup": "No account? Sign up"
+    },
+    "register": {
+      "title": "Sign Up",
+      "email": "Your email",
+      "password": "Create password",
+      "submit": "Sign Up",
+      "login": "Have an account? Login"
+    },
+    "reset": {
+      "title": "Password Reset",
+      "email": "Your registered email",
+      "submit": "Send Link",
+      "back": "Back to Login"
+    }
+  },
+  "ru": {
+    "main": {
+      "login": "Войти",
+      "register": "Регистрация"
+    },
+    "login": {
+      "title": "Вход",
+      "email": "Ваш e-mail",
+      "password": "Ваш пароль",
+      "submit": "Войти",
+      "forgot": "Забыли пароль?",
+      "signup": "Нет аккаунта? Регистрация"
+    },
+    "register": {
+      "title": "Регистрация",
+      "email": "Ваш e-mail",
+      "password": "Придумайте пароль",
+      "submit": "Зарегистрироваться",
+      "login": "Уже есть аккаунт? Войти"
+    },
+    "reset": {
+      "title": "Сброс пароля",
+      "email": "Ваш зарегистрированный e-mail",
+      "submit": "Отправить ссылку",
+      "back": "Назад к входу"
+    }
+  }
+}
+
